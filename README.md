@@ -22,7 +22,7 @@ This is a text editor application that meets the PWA criteria. This single-page 
 ![PWA Text Editor working screenshot](./Assets/Screen%20Shot%202023-02-19%20at%201.38.46%20PM.png)
 
 ## Links <a id="links"></a>
-[Heroku Deployed link](https://pwa-text-editor.herokuapp.com/)
+[Heroku Deployed link](https://hw19-text-editor-021923.herokuapp.com/)
 <br>
 [Github Repo](https://github.com/hannahsykim/PWA-texteditor)
 
